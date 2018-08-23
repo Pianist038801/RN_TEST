@@ -1,0 +1,7 @@
+export const GET_ACCESS_TOKEN = 'GET_ACCESS_TOKEN'
+export const SET_DATA = 'SET_DATA'
+export const GET_CONTENT = 'GET_CONTENT'
+export const GET_FAVORITES = 'GET_FAVORITES'
+export const SET_FAVORITE = 'SET_FAVORITE'
+export const DEL_FAVORITE = 'DEL_FAVORITE'
+export const GET_CONTENT_STATE = 'GET_CONTENT_STATE'
